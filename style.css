@@ -1,0 +1,40 @@
+
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+
+.boton{
+    position: relative;
+    background-color: rgb(220, 231, 231);
+    border-radius: 25px;
+    width: 60px;
+    cursor: pointer;
+}
+
+.boton:hover{
+    background-color: rgb(129, 125, 125);
+}
+
+body .contenedor-form{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-form{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Formulario{
+    border-radius: 10px;
+    padding: 15px;
+    background-color: darkgray;
+}
+
+.contenedor-insertar{
+    display: none;
+}
